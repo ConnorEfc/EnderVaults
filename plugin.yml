@@ -1,0 +1,8 @@
+author: ConnorEfc
+main: me.ConnorEfc.EnderVaults.main
+name: EnderVault
+version: '1.0'
+commands:
+   endervaults:
+      description: Endervaults v1.0
+      usage: /endervaults
